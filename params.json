@@ -1,0 +1,6 @@
+{
+  "name": "Fideligard Stocks Simulator",
+  "tagline": "Angular, UI.Router, JS, FrontEnd",
+  "body": "# assignment_fideligard_spa\r\nBuy low, sell high.\r\n\r\n[An AngularJS JavaScript single-page web application using services, directives, ui-router, and good modular code to create a stock portfolio simulator using Yahoo's finance trading data](http://www.vikingcodeschool.com)\r\n\r\nMain Author:\r\n\r\nAdrian\r\n\r\nContributors:\r\n\r\nDylan, Johnny\r\n\r\nPSEUDO-CODE:\r\n\r\nWidgets:\r\n  Date\r\n    min, max date\r\n\r\n  Stocks\r\n    filter\r\n    Data Table\r\n\r\n  Portfolio Widget\r\n    Calculations table\r\n\r\n    Data Table\r\n\r\nClicking Trade:\r\n  brings you to trade page.\r\n\r\n  question: how do i get \r\n\r\n1.clicking trade.\r\n2. mainpanel shows trade.\r\n3. get the info of stockSYMB and stockINDEX to mainpanel\r\n4. get main paenl to access from the stock service to populate data.\r\n\r\nclicking trade --> gives info to stock controller\r\nof the stock, and index.\r\n\r\nselectdropdown in mainview --> uisrefs to the trade view",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
